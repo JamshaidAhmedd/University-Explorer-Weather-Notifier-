@@ -1,0 +1,26 @@
+[INFO] 2024-12-13T05:57:24.832Z - Server is running on port 3000.
+[INFO] 2024-12-13T05:57:27.090Z - MongoDB connected successfully.
+[INFO] 2024-12-13T06:03:52.550Z - Added new university: UNiveristy of KARAK in Country Name.
+[ERROR] 2024-12-13T06:06:38.682Z - Error in deleteUniversity: Cast to ObjectId failed for value ":675bbcd9e3f03e4ecbe239fa" (type string) at path "_id" for model "University"
+[INFO] 2024-12-13T06:06:46.715Z - Deleted university: Barani Institute of Information Technology.
+[INFO] 2024-12-13T06:07:32.553Z - Updated university: UNiveristy of KARAK.
+[INFO] 2024-12-13T06:11:25.876Z - Updated university: UNiveristy of KARAK.
+[INFO] 2024-12-13T06:13:05.289Z - Updated university: Univeristy of KARAK.
+[INFO] 2024-12-13T06:18:56.771Z - Server is running on port 3000.
+[INFO] 2024-12-13T06:18:58.765Z - MongoDB connected successfully.
+[INFO] 2024-12-13T06:19:40.157Z - Weather data for Islamabad: Temp=16.9°C, Rain chance=0%
+[INFO] 2024-12-13T06:19:48.072Z - Weather data for Islamabad: Temp=16.9°C, Rain chance=0%
+[INFO] 2024-12-13T06:20:23.669Z - Weather data for Islamabad: Temp=16.9°C, Rain chance=0%
+[INFO] 2024-12-13T06:20:24.718Z - Email sent to sibghaaqeel@gmail.com.
+[INFO] 2025-01-17T05:35:02.453Z - Server is running on port 3000.
+[INFO] 2025-01-17T05:35:04.209Z - MongoDB connected successfully.
+[INFO] 2025-01-17T05:36:18.880Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
+[INFO] 2025-01-17T05:36:47.585Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
+[INFO] 2025-01-17T05:37:05.645Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
+[INFO] 2025-01-17T05:37:09.879Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
+[INFO] 2025-01-17T05:37:18.416Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
+[INFO] 2025-01-17T05:39:51.969Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
+[INFO] 2025-01-17T05:40:08.317Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
+[INFO] 2025-01-17T05:40:10.550Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
+[INFO] 2025-01-17T05:40:16.921Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
+[INFO] 2025-01-17T05:40:21.994Z - Weather data for Islamabad: Temp=13.9°C, Rain chance=0%
